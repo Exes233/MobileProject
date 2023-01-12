@@ -1,0 +1,15 @@
+C:\Users\Kirill-pc\Desktop\FS\FS\bin\Debug\netstandard2.0\FS.deps.json
+C:\Users\Kirill-pc\Desktop\FS\FS\bin\Debug\netstandard2.0\FS.dll
+C:\Users\Kirill-pc\Desktop\FS\FS\bin\Debug\netstandard2.0\ref\FS.dll
+C:\Users\Kirill-pc\Desktop\FS\FS\bin\Debug\netstandard2.0\FS.pdb
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\FS.csproj.AssemblyReference.cache
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\FS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\FS.AssemblyInfoInputs.cache
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\FS.AssemblyInfo.cs
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\FS.csproj.CoreCompileInputs.cache
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\FS.dll
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\ref\FS.dll
+C:\Users\Kirill-pc\Desktop\FS\FS\obj\Debug\netstandard2.0\FS.pdb
